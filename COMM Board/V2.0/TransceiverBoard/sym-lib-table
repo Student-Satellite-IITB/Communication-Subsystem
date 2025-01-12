@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CC1110")(type "KiCad")(uri "C:/Users/Ameya/Documents/IITBSSP/GitHub/Communication-Subsystem/Libraries/CC1110F16RHHR/KiCADv6/2024-12-30_14-11-36.kicad_sym")(options "")(descr "Transceiver"))
+  (lib (name "PE4259")(type "KiCad")(uri "C:/Users/Ameya/Documents/IITBSSP/GitHub/Communication-Subsystem/Libraries/PE4259_63/KiCADv6/2025-01-12_12-43-20.kicad_sym")(options "")(descr "RF Switch"))
+  (lib (name "FT5HN")(type "KiCad")(uri "C:/Users/Ameya/Documents/IITBSSP/GitHub/Communication-Subsystem/Libraries/FOX924B_27_000/KiCADv6/2025-01-12_13-48-21.kicad_sym")(options "")(descr "TCXO"))
+  (lib (name "TLV803S")(type "KiCad")(uri "C:/Users/Ameya/Documents/IITBSSP/GitHub/Communication-Subsystem/Libraries/TLV803SDBZR/KiCADv6/2025-01-12_16-10-12.kicad_sym")(options "")(descr "Voltage Supervisor"))
+)
