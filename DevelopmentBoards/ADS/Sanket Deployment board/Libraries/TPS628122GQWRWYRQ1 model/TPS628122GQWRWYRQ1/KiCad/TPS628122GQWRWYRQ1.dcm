@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS628122GQWRWYRQ1
+D Switching Voltage Regulators Automotive 2.75-V to 6-V, 2-A step-down converter in a 2mm x 3mm wettable-flanks QFN package 9-VQFN-HR -40 to 125
+K
+F https://www.ti.com/lit/gpn/TPS62812-Q1
+$ENDCMP
+#
+#End Doc Library

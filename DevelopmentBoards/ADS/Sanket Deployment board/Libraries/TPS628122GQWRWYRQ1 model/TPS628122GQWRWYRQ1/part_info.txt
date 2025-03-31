@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS628122GQWRWYRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=13
+Version=1.7
+Released=2020-07-08 10:18:37
+Downloaded=2024-09-09 19:19:09
+3D=N

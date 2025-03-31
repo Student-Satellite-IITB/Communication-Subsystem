@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRP5030CA-R56M
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2021-03-02 09:37:06
+Downloaded=2024-08-17 22:17:35
+3D=Y

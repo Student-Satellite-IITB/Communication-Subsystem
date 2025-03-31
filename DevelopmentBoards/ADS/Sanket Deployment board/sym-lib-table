@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sanket 4.0-altium-import")(type "KiCad")(uri "${KIPRJMOD}/sanket 4.0-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "antenna")(type "Altium")(uri "${KIPRJMOD}/antenna.SchLib")(options "")(descr ""))
+  (lib (name "TPS25200DRVR")(type "KiCad")(uri "${KIPRJMOD}/TPS25200DRVR footprint symbol/TPS25200DRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS62812QWRWYRQ1")(type "KiCad")(uri "/Users/tanish/Downloads/TPS62812QWRWYRQ1 footprint symbol/TPS62812QWRWYRQ1.kicad_sym")(options "")(descr ""))
+  (lib (name "SRP5030CA-R56M")(type "KiCad")(uri "${KIPRJMOD}/Bourns Power Inductor SRP5030CA-R56M/SRP5030CA-R56M/KiCad/SRP5030CA-R56M.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX4372HEUK+T")(type "Legacy")(uri "${KIPRJMOD}/MAX4372HEUK+T/KiCad/MAX4372HEUK+T.lib")(options "")(descr ""))
+)

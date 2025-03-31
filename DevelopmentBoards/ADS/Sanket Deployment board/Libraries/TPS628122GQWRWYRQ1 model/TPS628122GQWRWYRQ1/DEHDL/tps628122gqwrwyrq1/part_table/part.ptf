@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS628122GQWRWYRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS628122GQWRWYRQ1" (!) = "", "TPS628122GQWRWYRQ1", "Other", "595-S628122GQWRWYRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS628122GQWRWYRQ1?qs=GBLSl2Akirv%2FFCAUOFHZ8A%3D%3D", "TPS628122GQWRWYRQ1", "https://www.arrow.com/en/products/tps628122gqwrwyrq1/texas-instruments?region=nac", "Switching Voltage Regulators Automotive 2.75-V to 6-V, 2-A step-down converter in a 2mm x 3mm wettable-flanks QFN package 9-VQFN-HR -40 to 125", "https://www.ti.com/lit/gpn/TPS62812-Q1", "1 mm"
+END_PART
+
+END.

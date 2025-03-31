@@ -1,0 +1,17 @@
+.TPS628122GQWRWYRQ1 :1 ;Switching Voltage Regulators Automotive 2.75-V to 6-V, 2-A step-down converter in a 2mm x 3mm wettable-flanks QFN package 9-VQFN-HR -40 to 125
+TPS628122GQWRWYRQ1
+*STM IC
+*NGS
+*PLB 1="MODE/SYNC_1" 2="VIN" 3="SW" 4="GND" 5="FB_1" 6="SS/TR" 7="COMP/FSET_1" 8="EN_1" 9="PG" 10="MODE/SYNC_2" 11="FB_2" 12="COMP/FSET_2" 13="EN_2"
+*MXP 13
+*DFN TPS628122GQWRWYRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS628122GQWRWYRQ1)
+~!Mouser Part Number (595-S628122GQWRWYRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS628122GQWRWYRQ1?qs=GBLSl2Akirv%2FFCAUOFHZ8A%3D%3D)
+~!Arrow Part Number (TPS628122GQWRWYRQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps628122gqwrwyrq1/texas-instruments?region=nac)
+~!Link Datasheet (https://www.ti.com/lit/gpn/TPS62812-Q1)
+~!Height (1mm)
+TPS628122GQWRWYRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 

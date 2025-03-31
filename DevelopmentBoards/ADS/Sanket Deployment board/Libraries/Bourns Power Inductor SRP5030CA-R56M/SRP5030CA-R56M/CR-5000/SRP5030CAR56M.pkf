@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SRP5030CAR56M"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SRP5030CAR56M")
+        (spec "default")
+    )
+)

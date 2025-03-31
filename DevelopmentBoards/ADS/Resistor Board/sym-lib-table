@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "resistor_board-altium-import")(type "KiCad")(uri "${KIPRJMOD}/resistor_board-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "resistors")(type "Altium")(uri "${KIPRJMOD}/resistors.SchLib")(options "")(descr ""))
+  (lib (name "electromechanical")(type "Altium")(uri "${KIPRJMOD}/electromechanical.SchLib")(options "")(descr ""))
+)

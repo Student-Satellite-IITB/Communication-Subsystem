@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRP5030CA-R56M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-03-02-09:37:06)
+    (mountForm default
+        (footprintRef "SRP5030CAR56M")
+        (spec "System")
+    )
+)
