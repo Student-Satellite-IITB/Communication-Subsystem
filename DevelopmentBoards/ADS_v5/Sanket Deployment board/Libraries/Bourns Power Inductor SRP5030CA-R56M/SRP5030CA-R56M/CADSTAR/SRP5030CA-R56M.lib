@@ -1,0 +1,16 @@
+.SRP5030CA-R56M :1 ;Fixed Inductors 0.56uH20% 17.7A
+SRP5030CAR56M
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRP5030CA-R56M
+~!element14 Part Number (-)
+~!element14 Price/Stock (-)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRP5030CA-R56M)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/SRP5030CA.pdf)
+~!Height (3.1mm)
+~!3D_Model (SRP5030CA-R56M)
+SRP5030CA-R56M
+1.1!U 2.1!U 

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SRP5030CA-R56M")(type "KiCad")(uri "${KIPRJMOD}/Bourns Power Inductor SRP5030CA-R56M/SRP5030CA-R56M/KiCad/SRP5030CA-R56M.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25200")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_TPS25200QDRVTQ1/KiCADv6/2025-07-04_21-10-34.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LCV1G17")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_SN74LVC1G17QDCKRQ1/KiCADv6/2025-07-05_18-13-21.kicad_sym")(options "")(descr ""))
+  (lib (name "PMOS_ZXMP6A17")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ZXMP6A17GQTA/KiCADv6/2025-07-07_19-31-25.kicad_sym")(options "")(descr ""))
+)

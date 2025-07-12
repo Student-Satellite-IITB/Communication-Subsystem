@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRP5030CA_R56M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ELEMENT14_PART_NUMBER", "ELEMENT14_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRP5030CA-R56M" (!) = "", "SRP5030CAR56M", "Other", "", "", "Fixed Inductors 0.56uH20% 17.7A", "https://www.bourns.com/docs/Product-Datasheets/SRP5030CA.pdf", "3.1 mm"
+END_PART
+
+END.
