@@ -15,3 +15,8 @@ The Sanket Deployment Board contains the files of the main board which houses th
 - Number of pins on the resistor board changed, now in a 6 pins single row
 - Traces are now extra wide (7.2 mm → 1.5 mm)
 - Added an extra cut to accomodate the coaxial cable
+
+# Improvements needed in v5
+- The TPS25200 enable high means the current is disables
+- If the nicrhome wires are used in series, current limiter can be eliminated
+- There is no compensation network on the switching converter (F)
