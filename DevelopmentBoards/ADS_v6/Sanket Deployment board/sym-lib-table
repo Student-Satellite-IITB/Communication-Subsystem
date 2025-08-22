@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PMOS_ZXMP6A17")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ZXMP6A17GQTA/KiCADv6/2025-07-07_19-31-25.kicad_sym")(options "")(descr ""))
+)
